@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karkkijokeri
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning python & java
+- 🌱 I’m currently learning javascript & java
 - 💞️ I’m looking to collaborate on ??
-- 📫 You can reach me from discord, Qual#0001 or https://discord.gg/65cJdS2Tty
+- 📫 You can reach me from discord, Sprisa#0001
 
 <!---
 karkkijokeri/karkkijokeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
