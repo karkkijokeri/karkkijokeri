@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning javascript & java
 - 💞️ I’m looking to collaborate on ??
-- 📫 You can reach me from discord, Sprisa#0001
+- 📫 You can reach me from discord, Sprisa#7436
 
 <!---
 karkkijokeri/karkkijokeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
