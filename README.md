@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sprisa!
+- 👋 Hello, I’m Sprisa!
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning javascript & java.
 - 💞️ I’m looking to collaborate on projects I'm interested with.
