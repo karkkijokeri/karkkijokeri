@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karkkijokeri
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning javascript & java
-- 💞️ I’m looking to collaborate on anything
-- 📫 You can reach me from discord, Sprisa#0210
+- 👋 Hi, I’m Sprisa!
+- 👀 I’m interested in computers.
+- 🌱 I’m currently learning javascript & java.
+- 💞️ I’m looking to collaborate on projects I'm interested with.
+- 📫 You can reach me from my discord, Sprisa#0210
