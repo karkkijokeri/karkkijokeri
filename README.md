@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Sprisa!
 - 👀 I’m interested in computers.
-- 🌱 I’m currently learning javascript & java.
-- 💞️ I’m looking to collaborate on projects I'm interested with.
-- 📫 You can reach me from my discord, Sprisa#0210
+- 🌱 I’m currently learning javascript & typescript.
+- 💞️ I’m looking to collaborate on projects I'm interested in.
+- 📫 You can reach me from my discord, Sprh
